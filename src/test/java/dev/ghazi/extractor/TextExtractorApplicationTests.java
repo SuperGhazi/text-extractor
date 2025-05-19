@@ -9,5 +9,4 @@ class TextExtractorApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
